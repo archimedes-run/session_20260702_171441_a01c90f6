@@ -1,0 +1,24 @@
+{
+  "device": "mps",
+  "tests": {
+    "model_loading": true,
+    "data_loading": true,
+    "source_baseline": true,
+    "tent_baseline": true
+  },
+  "source_results": {
+    "accuracy": 0.0,
+    "error_rate": 100.0,
+    "avg_entropy": 4.76282262802124,
+    "avg_confidence": 0.17609965801239014,
+    "total_samples": 100
+  },
+  "tent_results": {
+    "accuracy": 0.0,
+    "error_rate": 100.0,
+    "avg_entropy": 3.1617848873138428,
+    "avg_confidence": 0.4326722025871277,
+    "avg_adaptation_loss": 3.0960859610484195,
+    "total_samples": 100
+  }
+}

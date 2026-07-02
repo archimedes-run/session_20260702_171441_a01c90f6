@@ -1,8 +1,38 @@
-.claude/
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
 __pycache__/
-*.pyc
-.env
-*.pt
-*.pth
-*.safetensors
+*.py[cod]
+*$py.class
+*.so
+
+# Test data
+workflow/test_data/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Large data files (should be downloaded separately)
 data/
+*.tar.gz
+*.zip
+
+# Model checkpoints (optional - keep structure, exclude large weights)
+results/*.pth
+results/*.pt
+results/*.ckpt
