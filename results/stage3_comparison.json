@@ -1,0 +1,2402 @@
+[
+  {
+    "method": "Source",
+    "corruption": "gaussian_noise",
+    "severity": 1,
+    "accuracy": 0.7400657169397753,
+    "error_rate": 0.2599342830602247,
+    "entropy": 1.7861735698828816
+  },
+  {
+    "method": "TENT",
+    "corruption": "gaussian_noise",
+    "severity": 1,
+    "accuracy": 0.7670462292379862,
+    "error_rate": 0.23295377076201385,
+    "entropy": 1.9523029856408025
+  },
+  {
+    "method": "FOA",
+    "corruption": "gaussian_noise",
+    "severity": 1,
+    "accuracy": 0.8246830674944666,
+    "error_rate": 0.17531693250553337,
+    "entropy": 1.776586304305082
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "gaussian_noise",
+    "severity": 1,
+    "accuracy": 0.7684157436898522,
+    "error_rate": 0.23158425631014778,
+    "entropy": 1.876743472915291
+  },
+  {
+    "method": "Source",
+    "corruption": "gaussian_noise",
+    "severity": 2,
+    "accuracy": 0.709389487718699,
+    "error_rate": 0.29061051228130097,
+    "entropy": 2.1542560043585968
+  },
+  {
+    "method": "TENT",
+    "corruption": "gaussian_noise",
+    "severity": 2,
+    "accuracy": 0.7392683538562492,
+    "error_rate": 0.2607316461437508,
+    "entropy": 2.0534270246429744
+  },
+  {
+    "method": "FOA",
+    "corruption": "gaussian_noise",
+    "severity": 2,
+    "accuracy": 0.7651607545686793,
+    "error_rate": 0.23483924543132073,
+    "entropy": 1.9086719755342203
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "gaussian_noise",
+    "severity": 2,
+    "accuracy": 0.7844983566502607,
+    "error_rate": 0.2155016433497393,
+    "entropy": 2.043771247075903
+  },
+  {
+    "method": "Source",
+    "corruption": "gaussian_noise",
+    "severity": 3,
+    "accuracy": 0.6702566224066885,
+    "error_rate": 0.3297433775933115,
+    "entropy": 2.431424733259527
+  },
+  {
+    "method": "TENT",
+    "corruption": "gaussian_noise",
+    "severity": 3,
+    "accuracy": 0.6981604815104242,
+    "error_rate": 0.3018395184895758,
+    "entropy": 2.2587696298664706
+  },
+  {
+    "method": "FOA",
+    "corruption": "gaussian_noise",
+    "severity": 3,
+    "accuracy": 0.6906870246215688,
+    "error_rate": 0.30931297537843117,
+    "entropy": 2.377422369951346
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "gaussian_noise",
+    "severity": 3,
+    "accuracy": 0.6986494359062416,
+    "error_rate": 0.3013505640937584,
+    "entropy": 2.257525181378654
+  },
+  {
+    "method": "Source",
+    "corruption": "gaussian_noise",
+    "severity": 4,
+    "accuracy": 0.6108876544905036,
+    "error_rate": 0.38911234550949636,
+    "entropy": 2.7110922589709867
+  },
+  {
+    "method": "TENT",
+    "corruption": "gaussian_noise",
+    "severity": 4,
+    "accuracy": 0.6530198715484461,
+    "error_rate": 0.3469801284515539,
+    "entropy": 2.7375698018345673
+  },
+  {
+    "method": "FOA",
+    "corruption": "gaussian_noise",
+    "severity": 4,
+    "accuracy": 0.682012773798376,
+    "error_rate": 0.317987226201624,
+    "entropy": 2.6708306250206726
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "gaussian_noise",
+    "severity": 4,
+    "accuracy": 0.662034132244588,
+    "error_rate": 0.33796586775541204,
+    "entropy": 2.885227818450894
+  },
+  {
+    "method": "Source",
+    "corruption": "gaussian_noise",
+    "severity": 5,
+    "accuracy": 0.5502699444947586,
+    "error_rate": 0.44973005550524137,
+    "entropy": 2.89422890710441
+  },
+  {
+    "method": "TENT",
+    "corruption": "gaussian_noise",
+    "severity": 5,
+    "accuracy": 0.5635491017579363,
+    "error_rate": 0.43645089824206373,
+    "entropy": 2.8779156350028976
+  },
+  {
+    "method": "FOA",
+    "corruption": "gaussian_noise",
+    "severity": 5,
+    "accuracy": 0.6158227280999048,
+    "error_rate": 0.3841772719000952,
+    "entropy": 2.8040329876120222
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "gaussian_noise",
+    "severity": 5,
+    "accuracy": 0.6265637209779686,
+    "error_rate": 0.37343627902203136,
+    "entropy": 3.0196861235869124
+  },
+  {
+    "method": "Source",
+    "corruption": "shot_noise",
+    "severity": 1,
+    "accuracy": 0.7352306684000918,
+    "error_rate": 0.26476933159990823,
+    "entropy": 1.817136828118997
+  },
+  {
+    "method": "TENT",
+    "corruption": "shot_noise",
+    "severity": 1,
+    "accuracy": 0.7823129656477649,
+    "error_rate": 0.21768703435223513,
+    "entropy": 1.7698896304410712
+  },
+  {
+    "method": "FOA",
+    "corruption": "shot_noise",
+    "severity": 1,
+    "accuracy": 0.8495704398073485,
+    "error_rate": 0.15042956019265152,
+    "entropy": 1.7280155791605292
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "shot_noise",
+    "severity": 1,
+    "accuracy": 0.8092127754191958,
+    "error_rate": 0.19078722458080422,
+    "entropy": 1.9057122226218917
+  },
+  {
+    "method": "Source",
+    "corruption": "shot_noise",
+    "severity": 2,
+    "accuracy": 0.6931276342086308,
+    "error_rate": 0.30687236579136923,
+    "entropy": 1.9236959844637267
+  },
+  {
+    "method": "TENT",
+    "corruption": "shot_noise",
+    "severity": 2,
+    "accuracy": 0.7235183206121041,
+    "error_rate": 0.2764816793878959,
+    "entropy": 2.0614917719583685
+  },
+  {
+    "method": "FOA",
+    "corruption": "shot_noise",
+    "severity": 2,
+    "accuracy": 0.7835384400061192,
+    "error_rate": 0.21646155999388084,
+    "entropy": 2.161167628884087
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "shot_noise",
+    "severity": 2,
+    "accuracy": 0.729380009550081,
+    "error_rate": 0.270619990449919,
+    "entropy": 2.19312801191162
+  },
+  {
+    "method": "Source",
+    "corruption": "shot_noise",
+    "severity": 3,
+    "accuracy": 0.6667843504644527,
+    "error_rate": 0.3332156495355473,
+    "entropy": 2.3690787624148784
+  },
+  {
+    "method": "TENT",
+    "corruption": "shot_noise",
+    "severity": 3,
+    "accuracy": 0.6733747313719287,
+    "error_rate": 0.3266252686280713,
+    "entropy": 2.497554512712236
+  },
+  {
+    "method": "FOA",
+    "corruption": "shot_noise",
+    "severity": 3,
+    "accuracy": 0.7295834847569057,
+    "error_rate": 0.2704165152430943,
+    "entropy": 2.381434102333618
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "shot_noise",
+    "severity": 3,
+    "accuracy": 0.7221266994801206,
+    "error_rate": 0.27787330051987935,
+    "entropy": 2.280379337591933
+  },
+  {
+    "method": "Source",
+    "corruption": "shot_noise",
+    "severity": 4,
+    "accuracy": 0.583749483552116,
+    "error_rate": 0.416250516447884,
+    "entropy": 2.8356240028570823
+  },
+  {
+    "method": "TENT",
+    "corruption": "shot_noise",
+    "severity": 4,
+    "accuracy": 0.6314402024316067,
+    "error_rate": 0.3685597975683933,
+    "entropy": 2.8003532897892027
+  },
+  {
+    "method": "FOA",
+    "corruption": "shot_noise",
+    "severity": 4,
+    "accuracy": 0.6627672794990472,
+    "error_rate": 0.33723272050095277,
+    "entropy": 2.635488024539488
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "shot_noise",
+    "severity": 4,
+    "accuracy": 0.6427720878898318,
+    "error_rate": 0.35722791211016824,
+    "entropy": 2.853803656646597
+  },
+  {
+    "method": "Source",
+    "corruption": "shot_noise",
+    "severity": 5,
+    "accuracy": 0.550716520782199,
+    "error_rate": 0.449283479217801,
+    "entropy": 3.1564643655814004
+  },
+  {
+    "method": "TENT",
+    "corruption": "shot_noise",
+    "severity": 5,
+    "accuracy": 0.6323949020817949,
+    "error_rate": 0.36760509791820506,
+    "entropy": 3.0821902504375225
+  },
+  {
+    "method": "FOA",
+    "corruption": "shot_noise",
+    "severity": 5,
+    "accuracy": 0.6182590586352366,
+    "error_rate": 0.38174094136476344,
+    "entropy": 2.9700992649534133
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "shot_noise",
+    "severity": 5,
+    "accuracy": 0.59816478446929,
+    "error_rate": 0.40183521553071,
+    "entropy": 2.8012431085399108
+  },
+  {
+    "method": "Source",
+    "corruption": "impulse_noise",
+    "severity": 1,
+    "accuracy": 0.7543934377567503,
+    "error_rate": 0.24560656224324973,
+    "entropy": 1.8357112571511747
+  },
+  {
+    "method": "TENT",
+    "corruption": "impulse_noise",
+    "severity": 1,
+    "accuracy": 0.7504421191051697,
+    "error_rate": 0.24955788089483033,
+    "entropy": 1.7481729781726354
+  },
+  {
+    "method": "FOA",
+    "corruption": "impulse_noise",
+    "severity": 1,
+    "accuracy": 0.8361698720578638,
+    "error_rate": 0.16383012794213625,
+    "entropy": 1.7498242956415464
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "impulse_noise",
+    "severity": 1,
+    "accuracy": 0.7816919576459586,
+    "error_rate": 0.21830804235404144,
+    "entropy": 1.8328751109659684
+  },
+  {
+    "method": "Source",
+    "corruption": "impulse_noise",
+    "severity": 2,
+    "accuracy": 0.7105952040753407,
+    "error_rate": 0.2894047959246593,
+    "entropy": 2.1513267433113357
+  },
+  {
+    "method": "TENT",
+    "corruption": "impulse_noise",
+    "severity": 2,
+    "accuracy": 0.7280584490130392,
+    "error_rate": 0.2719415509869608,
+    "entropy": 2.196864499053289
+  },
+  {
+    "method": "FOA",
+    "corruption": "impulse_noise",
+    "severity": 2,
+    "accuracy": 0.784041061877547,
+    "error_rate": 0.21595893812245304,
+    "entropy": 2.0672337853402234
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "impulse_noise",
+    "severity": 2,
+    "accuracy": 0.7578421630626432,
+    "error_rate": 0.24215783693735682,
+    "entropy": 1.9536485051867882
+  },
+  {
+    "method": "Source",
+    "corruption": "impulse_noise",
+    "severity": 3,
+    "accuracy": 0.6440775944587085,
+    "error_rate": 0.3559224055412915,
+    "entropy": 2.426105527217989
+  },
+  {
+    "method": "TENT",
+    "corruption": "impulse_noise",
+    "severity": 3,
+    "accuracy": 0.6798977308671508,
+    "error_rate": 0.3201022691328492,
+    "entropy": 2.3765412866624853
+  },
+  {
+    "method": "FOA",
+    "corruption": "impulse_noise",
+    "severity": 3,
+    "accuracy": 0.7483074148410083,
+    "error_rate": 0.25169258515899173,
+    "entropy": 2.357935467723464
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "impulse_noise",
+    "severity": 3,
+    "accuracy": 0.7068542903305355,
+    "error_rate": 0.2931457096694645,
+    "entropy": 2.319772273077838
+  },
+  {
+    "method": "Source",
+    "corruption": "impulse_noise",
+    "severity": 4,
+    "accuracy": 0.6032257142333202,
+    "error_rate": 0.39677428576667984,
+    "entropy": 2.740405085681454
+  },
+  {
+    "method": "TENT",
+    "corruption": "impulse_noise",
+    "severity": 4,
+    "accuracy": 0.5922762819757894,
+    "error_rate": 0.4077237180242106,
+    "entropy": 2.717457781283184
+  },
+  {
+    "method": "FOA",
+    "corruption": "impulse_noise",
+    "severity": 4,
+    "accuracy": 0.6648489921855447,
+    "error_rate": 0.3351510078144553,
+    "entropy": 2.6925554084233836
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "impulse_noise",
+    "severity": 4,
+    "accuracy": 0.6883754243059809,
+    "error_rate": 0.31162457569401913,
+    "entropy": 2.6973486124550785
+  },
+  {
+    "method": "Source",
+    "corruption": "impulse_noise",
+    "severity": 5,
+    "accuracy": 0.5487953958011794,
+    "error_rate": 0.4512046041988206,
+    "entropy": 3.2463242112485284
+  },
+  {
+    "method": "TENT",
+    "corruption": "impulse_noise",
+    "severity": 5,
+    "accuracy": 0.5838472192956224,
+    "error_rate": 0.41615278070437756,
+    "entropy": 3.0301547342333612
+  },
+  {
+    "method": "FOA",
+    "corruption": "impulse_noise",
+    "severity": 5,
+    "accuracy": 0.6206942353941048,
+    "error_rate": 0.37930576460589516,
+    "entropy": 2.883132196238047
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "impulse_noise",
+    "severity": 5,
+    "accuracy": 0.5771435437096997,
+    "error_rate": 0.42285645629030033,
+    "entropy": 3.0751933032686773
+  },
+  {
+    "method": "Source",
+    "corruption": "defocus_blur",
+    "severity": 1,
+    "accuracy": 0.7341793610591391,
+    "error_rate": 0.26582063894086094,
+    "entropy": 1.7090612545205262
+  },
+  {
+    "method": "TENT",
+    "corruption": "defocus_blur",
+    "severity": 1,
+    "accuracy": 0.751944113781278,
+    "error_rate": 0.248055886218722,
+    "entropy": 1.659814893720772
+  },
+  {
+    "method": "FOA",
+    "corruption": "defocus_blur",
+    "severity": 1,
+    "accuracy": 0.8082628581239946,
+    "error_rate": 0.19173714187600543,
+    "entropy": 2.019045562580998
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "defocus_blur",
+    "severity": 1,
+    "accuracy": 0.8198107265026138,
+    "error_rate": 0.18018927349738623,
+    "entropy": 1.7433702270397229
+  },
+  {
+    "method": "Source",
+    "corruption": "defocus_blur",
+    "severity": 2,
+    "accuracy": 0.6980069726982472,
+    "error_rate": 0.3019930273017528,
+    "entropy": 2.04965243458838
+  },
+  {
+    "method": "TENT",
+    "corruption": "defocus_blur",
+    "severity": 2,
+    "accuracy": 0.7610132686213227,
+    "error_rate": 0.23898673137867732,
+    "entropy": 2.106856297480603
+  },
+  {
+    "method": "FOA",
+    "corruption": "defocus_blur",
+    "severity": 2,
+    "accuracy": 0.7912460742745221,
+    "error_rate": 0.2087539257254779,
+    "entropy": 2.1473592430635184
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "defocus_blur",
+    "severity": 2,
+    "accuracy": 0.7683884846846761,
+    "error_rate": 0.23161151531532387,
+    "entropy": 2.254993440501754
+  },
+  {
+    "method": "Source",
+    "corruption": "defocus_blur",
+    "severity": 3,
+    "accuracy": 0.6656650658467247,
+    "error_rate": 0.3343349341532753,
+    "entropy": 2.3677938483794323
+  },
+  {
+    "method": "TENT",
+    "corruption": "defocus_blur",
+    "severity": 3,
+    "accuracy": 0.6637296556526067,
+    "error_rate": 0.33627034434739334,
+    "entropy": 2.2769135683566044
+  },
+  {
+    "method": "FOA",
+    "corruption": "defocus_blur",
+    "severity": 3,
+    "accuracy": 0.7154508013079174,
+    "error_rate": 0.2845491986920826,
+    "entropy": 2.5307142754282426
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "defocus_blur",
+    "severity": 3,
+    "accuracy": 0.7321496646912246,
+    "error_rate": 0.26785033530877544,
+    "entropy": 2.4184633858532303
+  },
+  {
+    "method": "Source",
+    "corruption": "defocus_blur",
+    "severity": 4,
+    "accuracy": 0.5948023441150315,
+    "error_rate": 0.4051976558849685,
+    "entropy": 2.778182287177731
+  },
+  {
+    "method": "TENT",
+    "corruption": "defocus_blur",
+    "severity": 4,
+    "accuracy": 0.6547390142175616,
+    "error_rate": 0.34526098578243836,
+    "entropy": 2.5679543386915724
+  },
+  {
+    "method": "FOA",
+    "corruption": "defocus_blur",
+    "severity": 4,
+    "accuracy": 0.659561168687662,
+    "error_rate": 0.340438831312338,
+    "entropy": 2.7296984673233187
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "defocus_blur",
+    "severity": 4,
+    "accuracy": 0.6449901429930824,
+    "error_rate": 0.35500985700691756,
+    "entropy": 2.734644820949698
+  },
+  {
+    "method": "Source",
+    "corruption": "defocus_blur",
+    "severity": 5,
+    "accuracy": 0.5636004944315698,
+    "error_rate": 0.4363995055684302,
+    "entropy": 3.0232253697161005
+  },
+  {
+    "method": "TENT",
+    "corruption": "defocus_blur",
+    "severity": 5,
+    "accuracy": 0.5741385505340264,
+    "error_rate": 0.4258614494659736,
+    "entropy": 2.928564858197363
+  },
+  {
+    "method": "FOA",
+    "corruption": "defocus_blur",
+    "severity": 5,
+    "accuracy": 0.5826845097771048,
+    "error_rate": 0.41731549022289516,
+    "entropy": 3.0473832920911788
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "defocus_blur",
+    "severity": 5,
+    "accuracy": 0.623826069944053,
+    "error_rate": 0.376173930055947,
+    "entropy": 3.065655360863383
+  },
+  {
+    "method": "Source",
+    "corruption": "glass_blur",
+    "severity": 1,
+    "accuracy": 0.7694936334045465,
+    "error_rate": 0.23050636659545354,
+    "entropy": 1.8787084603742452
+  },
+  {
+    "method": "TENT",
+    "corruption": "glass_blur",
+    "severity": 1,
+    "accuracy": 0.7568280884198519,
+    "error_rate": 0.24317191158014806,
+    "entropy": 1.717931768164829
+  },
+  {
+    "method": "FOA",
+    "corruption": "glass_blur",
+    "severity": 1,
+    "accuracy": 0.8007324774151136,
+    "error_rate": 0.19926752258488645,
+    "entropy": 1.8412780926936498
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "glass_blur",
+    "severity": 1,
+    "accuracy": 0.7835587968001102,
+    "error_rate": 0.2164412031998898,
+    "entropy": 1.9896792982653948
+  },
+  {
+    "method": "Source",
+    "corruption": "glass_blur",
+    "severity": 2,
+    "accuracy": 0.7049077623200574,
+    "error_rate": 0.29509223767994264,
+    "entropy": 2.024626383564251
+  },
+  {
+    "method": "TENT",
+    "corruption": "glass_blur",
+    "severity": 2,
+    "accuracy": 0.7477902885925105,
+    "error_rate": 0.2522097114074895,
+    "entropy": 2.0184189715034564
+  },
+  {
+    "method": "FOA",
+    "corruption": "glass_blur",
+    "severity": 2,
+    "accuracy": 0.771542034188282,
+    "error_rate": 0.22845796581171796,
+    "entropy": 2.1341151974816643
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "glass_blur",
+    "severity": 2,
+    "accuracy": 0.7444661840133997,
+    "error_rate": 0.2555338159866003,
+    "entropy": 2.1827183249036026
+  },
+  {
+    "method": "Source",
+    "corruption": "glass_blur",
+    "severity": 3,
+    "accuracy": 0.6497399621624419,
+    "error_rate": 0.3502600378375581,
+    "entropy": 2.545353407715732
+  },
+  {
+    "method": "TENT",
+    "corruption": "glass_blur",
+    "severity": 3,
+    "accuracy": 0.6852931366647591,
+    "error_rate": 0.3147068633352409,
+    "entropy": 2.672016916658962
+  },
+  {
+    "method": "FOA",
+    "corruption": "glass_blur",
+    "severity": 3,
+    "accuracy": 0.7074866530446998,
+    "error_rate": 0.2925133469553002,
+    "entropy": 2.3142842443583715
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "glass_blur",
+    "severity": 3,
+    "accuracy": 0.7214178499612223,
+    "error_rate": 0.27858215003877773,
+    "entropy": 2.4482472415243186
+  },
+  {
+    "method": "Source",
+    "corruption": "glass_blur",
+    "severity": 4,
+    "accuracy": 0.604469255706517,
+    "error_rate": 0.395530744293483,
+    "entropy": 2.7714000494092095
+  },
+  {
+    "method": "TENT",
+    "corruption": "glass_blur",
+    "severity": 4,
+    "accuracy": 0.6205352475085291,
+    "error_rate": 0.37946475249147094,
+    "entropy": 2.6927171087343127
+  },
+  {
+    "method": "FOA",
+    "corruption": "glass_blur",
+    "severity": 4,
+    "accuracy": 0.686935874361368,
+    "error_rate": 0.31306412563863195,
+    "entropy": 2.548515277531414
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "glass_blur",
+    "severity": 4,
+    "accuracy": 0.6589302990413405,
+    "error_rate": 0.3410697009586595,
+    "entropy": 2.7856398794323476
+  },
+  {
+    "method": "Source",
+    "corruption": "glass_blur",
+    "severity": 5,
+    "accuracy": 0.5457181251173959,
+    "error_rate": 0.4542818748826041,
+    "entropy": 2.8754261221288013
+  },
+  {
+    "method": "TENT",
+    "corruption": "glass_blur",
+    "severity": 5,
+    "accuracy": 0.5765363814829764,
+    "error_rate": 0.42346361851702363,
+    "entropy": 3.0385317379728836
+  },
+  {
+    "method": "FOA",
+    "corruption": "glass_blur",
+    "severity": 5,
+    "accuracy": 0.6376771487240226,
+    "error_rate": 0.3623228512759774,
+    "entropy": 3.0153725105945526
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "glass_blur",
+    "severity": 5,
+    "accuracy": 0.5988358256310801,
+    "error_rate": 0.40116417436891993,
+    "entropy": 2.8857029702169377
+  },
+  {
+    "method": "Source",
+    "corruption": "motion_blur",
+    "severity": 1,
+    "accuracy": 0.7428442527930343,
+    "error_rate": 0.25715574720696566,
+    "entropy": 1.8560784526368235
+  },
+  {
+    "method": "TENT",
+    "corruption": "motion_blur",
+    "severity": 1,
+    "accuracy": 0.7583389751364945,
+    "error_rate": 0.2416610248635055,
+    "entropy": 1.9053802052034903
+  },
+  {
+    "method": "FOA",
+    "corruption": "motion_blur",
+    "severity": 1,
+    "accuracy": 0.8475533873591418,
+    "error_rate": 0.15244661264085824,
+    "entropy": 1.7062174960084877
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "motion_blur",
+    "severity": 1,
+    "accuracy": 0.7896992946558269,
+    "error_rate": 0.2103007053441731,
+    "entropy": 1.851378595091221
+  },
+  {
+    "method": "Source",
+    "corruption": "motion_blur",
+    "severity": 2,
+    "accuracy": 0.689699046273879,
+    "error_rate": 0.310300953726121,
+    "entropy": 2.4852731490654723
+  },
+  {
+    "method": "TENT",
+    "corruption": "motion_blur",
+    "severity": 2,
+    "accuracy": 0.7185821897861366,
+    "error_rate": 0.28141781021386336,
+    "entropy": 2.21355656401806
+  },
+  {
+    "method": "FOA",
+    "corruption": "motion_blur",
+    "severity": 2,
+    "accuracy": 0.7509199647301359,
+    "error_rate": 0.2490800352698641,
+    "entropy": 2.16513912513058
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "motion_blur",
+    "severity": 2,
+    "accuracy": 0.756305384892807,
+    "error_rate": 0.24369461510719304,
+    "entropy": 2.175896922049327
+  },
+  {
+    "method": "Source",
+    "corruption": "motion_blur",
+    "severity": 3,
+    "accuracy": 0.6654565042907514,
+    "error_rate": 0.3345434957092486,
+    "entropy": 2.376318139325999
+  },
+  {
+    "method": "TENT",
+    "corruption": "motion_blur",
+    "severity": 3,
+    "accuracy": 0.6897072709565821,
+    "error_rate": 0.31029272904341787,
+    "entropy": 2.408187413938632
+  },
+  {
+    "method": "FOA",
+    "corruption": "motion_blur",
+    "severity": 3,
+    "accuracy": 0.6737068286665298,
+    "error_rate": 0.32629317133347024,
+    "entropy": 2.213273480740825
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "motion_blur",
+    "severity": 3,
+    "accuracy": 0.6862747961925098,
+    "error_rate": 0.31372520380749025,
+    "entropy": 2.2387284128810347
+  },
+  {
+    "method": "Source",
+    "corruption": "motion_blur",
+    "severity": 4,
+    "accuracy": 0.6094386373157886,
+    "error_rate": 0.3905613626842114,
+    "entropy": 2.808895059696737
+  },
+  {
+    "method": "TENT",
+    "corruption": "motion_blur",
+    "severity": 4,
+    "accuracy": 0.6287143996180907,
+    "error_rate": 0.3712856003819093,
+    "entropy": 2.5922255222070696
+  },
+  {
+    "method": "FOA",
+    "corruption": "motion_blur",
+    "severity": 4,
+    "accuracy": 0.6843060741851993,
+    "error_rate": 0.3156939258148007,
+    "entropy": 2.767959774893468
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "motion_blur",
+    "severity": 4,
+    "accuracy": 0.6646073326343428,
+    "error_rate": 0.3353926673656572,
+    "entropy": 2.7216458589581976
+  },
+  {
+    "method": "Source",
+    "corruption": "motion_blur",
+    "severity": 5,
+    "accuracy": 0.5490885632019237,
+    "error_rate": 0.4509114367980763,
+    "entropy": 2.9348399652394184
+  },
+  {
+    "method": "TENT",
+    "corruption": "motion_blur",
+    "severity": 5,
+    "accuracy": 0.5371211182134935,
+    "error_rate": 0.4628788817865065,
+    "entropy": 3.063391902231801
+  },
+  {
+    "method": "FOA",
+    "corruption": "motion_blur",
+    "severity": 5,
+    "accuracy": 0.6605028517331522,
+    "error_rate": 0.33949714826684785,
+    "entropy": 3.018645431476943
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "motion_blur",
+    "severity": 5,
+    "accuracy": 0.6132357292953678,
+    "error_rate": 0.38676427070463215,
+    "entropy": 3.0852433334796223
+  },
+  {
+    "method": "Source",
+    "corruption": "zoom_blur",
+    "severity": 1,
+    "accuracy": 0.765850414768654,
+    "error_rate": 0.234149585231346,
+    "entropy": 1.7885263558533102
+  },
+  {
+    "method": "TENT",
+    "corruption": "zoom_blur",
+    "severity": 1,
+    "accuracy": 0.7699002544203909,
+    "error_rate": 0.2300997455796091,
+    "entropy": 1.8865755194170122
+  },
+  {
+    "method": "FOA",
+    "corruption": "zoom_blur",
+    "severity": 1,
+    "accuracy": 0.8440059281411155,
+    "error_rate": 0.15599407185888448,
+    "entropy": 1.766549876415905
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "zoom_blur",
+    "severity": 1,
+    "accuracy": 0.8094989062232192,
+    "error_rate": 0.19050109377678082,
+    "entropy": 1.7346670767426289
+  },
+  {
+    "method": "Source",
+    "corruption": "zoom_blur",
+    "severity": 2,
+    "accuracy": 0.6646909151943781,
+    "error_rate": 0.33530908480562194,
+    "entropy": 2.1404981710960955
+  },
+  {
+    "method": "TENT",
+    "corruption": "zoom_blur",
+    "severity": 2,
+    "accuracy": 0.7552176790867009,
+    "error_rate": 0.2447823209132991,
+    "entropy": 2.1917861947054775
+  },
+  {
+    "method": "FOA",
+    "corruption": "zoom_blur",
+    "severity": 2,
+    "accuracy": 0.7275568760597473,
+    "error_rate": 0.2724431239402527,
+    "entropy": 2.2032465260551146
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "zoom_blur",
+    "severity": 2,
+    "accuracy": 0.7803873993190803,
+    "error_rate": 0.2196126006809197,
+    "entropy": 2.051576592713375
+  },
+  {
+    "method": "Source",
+    "corruption": "zoom_blur",
+    "severity": 3,
+    "accuracy": 0.6246617770162676,
+    "error_rate": 0.37533822298373243,
+    "entropy": 2.329233053438122
+  },
+  {
+    "method": "TENT",
+    "corruption": "zoom_blur",
+    "severity": 3,
+    "accuracy": 0.6711236114370754,
+    "error_rate": 0.32887638856292456,
+    "entropy": 2.4774634053429336
+  },
+  {
+    "method": "FOA",
+    "corruption": "zoom_blur",
+    "severity": 3,
+    "accuracy": 0.7385386094315616,
+    "error_rate": 0.2614613905684384,
+    "entropy": 2.39404746439382
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "zoom_blur",
+    "severity": 3,
+    "accuracy": 0.7648253468013815,
+    "error_rate": 0.23517465319861852,
+    "entropy": 2.297561235866571
+  },
+  {
+    "method": "Source",
+    "corruption": "zoom_blur",
+    "severity": 4,
+    "accuracy": 0.6050513630278632,
+    "error_rate": 0.3949486369721368,
+    "entropy": 2.5752216818035154
+  },
+  {
+    "method": "TENT",
+    "corruption": "zoom_blur",
+    "severity": 4,
+    "accuracy": 0.5973517739213673,
+    "error_rate": 0.4026482260786327,
+    "entropy": 2.5569858622039368
+  },
+  {
+    "method": "FOA",
+    "corruption": "zoom_blur",
+    "severity": 4,
+    "accuracy": 0.6788008897339396,
+    "error_rate": 0.3211991102660604,
+    "entropy": 2.713074057728609
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "zoom_blur",
+    "severity": 4,
+    "accuracy": 0.6211745342186777,
+    "error_rate": 0.37882546578132226,
+    "entropy": 2.5564137848820563
+  },
+  {
+    "method": "Source",
+    "corruption": "zoom_blur",
+    "severity": 5,
+    "accuracy": 0.5267367249569008,
+    "error_rate": 0.4732632750430992,
+    "entropy": 3.001023306101959
+  },
+  {
+    "method": "TENT",
+    "corruption": "zoom_blur",
+    "severity": 5,
+    "accuracy": 0.599630173020959,
+    "error_rate": 0.400369826979041,
+    "entropy": 3.046210347426327
+  },
+  {
+    "method": "FOA",
+    "corruption": "zoom_blur",
+    "severity": 5,
+    "accuracy": 0.6160188060885305,
+    "error_rate": 0.38398119391146945,
+    "entropy": 2.9399783122841203
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "zoom_blur",
+    "severity": 5,
+    "accuracy": 0.5986039583001996,
+    "error_rate": 0.40139604169980037,
+    "entropy": 2.961468640313824
+  },
+  {
+    "method": "Source",
+    "corruption": "snow",
+    "severity": 1,
+    "accuracy": 0.7477296530949751,
+    "error_rate": 0.2522703469050249,
+    "entropy": 1.8662130674521047
+  },
+  {
+    "method": "TENT",
+    "corruption": "snow",
+    "severity": 1,
+    "accuracy": 0.748279663677093,
+    "error_rate": 0.251720336322907,
+    "entropy": 1.6762184501173152
+  },
+  {
+    "method": "FOA",
+    "corruption": "snow",
+    "severity": 1,
+    "accuracy": 0.7773393325068746,
+    "error_rate": 0.2226606674931254,
+    "entropy": 1.6047912200477499
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "snow",
+    "severity": 1,
+    "accuracy": 0.8030357019007117,
+    "error_rate": 0.19696429809928828,
+    "entropy": 1.8588317206484577
+  },
+  {
+    "method": "Source",
+    "corruption": "snow",
+    "severity": 2,
+    "accuracy": 0.6943801626452993,
+    "error_rate": 0.30561983735470066,
+    "entropy": 2.0377300480179406
+  },
+  {
+    "method": "TENT",
+    "corruption": "snow",
+    "severity": 2,
+    "accuracy": 0.7341624450071456,
+    "error_rate": 0.26583755499285444,
+    "entropy": 2.050699906534117
+  },
+  {
+    "method": "FOA",
+    "corruption": "snow",
+    "severity": 2,
+    "accuracy": 0.7817872951388842,
+    "error_rate": 0.21821270486111577,
+    "entropy": 2.1849602097021026
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "snow",
+    "severity": 2,
+    "accuracy": 0.7428596902806991,
+    "error_rate": 0.2571403097193009,
+    "entropy": 2.0307090404739347
+  },
+  {
+    "method": "Source",
+    "corruption": "snow",
+    "severity": 3,
+    "accuracy": 0.632008002491335,
+    "error_rate": 0.36799199750866496,
+    "entropy": 2.4307299520876606
+  },
+  {
+    "method": "TENT",
+    "corruption": "snow",
+    "severity": 3,
+    "accuracy": 0.6637427576232209,
+    "error_rate": 0.3362572423767791,
+    "entropy": 2.462962884192361
+  },
+  {
+    "method": "FOA",
+    "corruption": "snow",
+    "severity": 3,
+    "accuracy": 0.7365799002184414,
+    "error_rate": 0.26342009978155856,
+    "entropy": 2.343981895980303
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "snow",
+    "severity": 3,
+    "accuracy": 0.6850541278975348,
+    "error_rate": 0.31494587210246516,
+    "entropy": 2.4610370265433463
+  },
+  {
+    "method": "Source",
+    "corruption": "snow",
+    "severity": 4,
+    "accuracy": 0.6004180318792829,
+    "error_rate": 0.3995819681207171,
+    "entropy": 2.7117327383308782
+  },
+  {
+    "method": "TENT",
+    "corruption": "snow",
+    "severity": 4,
+    "accuracy": 0.6044467020842315,
+    "error_rate": 0.39555329791576854,
+    "entropy": 2.640842861116417
+  },
+  {
+    "method": "FOA",
+    "corruption": "snow",
+    "severity": 4,
+    "accuracy": 0.6590580523765992,
+    "error_rate": 0.3409419476234008,
+    "entropy": 2.6797807347566107
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "snow",
+    "severity": 4,
+    "accuracy": 0.6543536240645444,
+    "error_rate": 0.34564637593545555,
+    "entropy": 2.8098776851987193
+  },
+  {
+    "method": "Source",
+    "corruption": "snow",
+    "severity": 5,
+    "accuracy": 0.5334916730202394,
+    "error_rate": 0.46650832697976063,
+    "entropy": 3.0813509636000638
+  },
+  {
+    "method": "TENT",
+    "corruption": "snow",
+    "severity": 5,
+    "accuracy": 0.5538904238569134,
+    "error_rate": 0.44610957614308655,
+    "entropy": 3.002100384163276
+  },
+  {
+    "method": "FOA",
+    "corruption": "snow",
+    "severity": 5,
+    "accuracy": 0.6063609405741006,
+    "error_rate": 0.3936390594258994,
+    "entropy": 2.9689733243406544
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "snow",
+    "severity": 5,
+    "accuracy": 0.5935166729502312,
+    "error_rate": 0.40648332704976875,
+    "entropy": 2.9869856945632316
+  },
+  {
+    "method": "Source",
+    "corruption": "frost",
+    "severity": 1,
+    "accuracy": 0.7480600807001456,
+    "error_rate": 0.2519399192998544,
+    "entropy": 1.8595157025436915
+  },
+  {
+    "method": "TENT",
+    "corruption": "frost",
+    "severity": 1,
+    "accuracy": 0.7963644136646695,
+    "error_rate": 0.20363558633533052,
+    "entropy": 2.009238727568546
+  },
+  {
+    "method": "FOA",
+    "corruption": "frost",
+    "severity": 1,
+    "accuracy": 0.840120347629994,
+    "error_rate": 0.159879652370006,
+    "entropy": 1.6785811387212268
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "frost",
+    "severity": 1,
+    "accuracy": 0.7768377825299987,
+    "error_rate": 0.2231622174700013,
+    "entropy": 1.8791662693962936
+  },
+  {
+    "method": "Source",
+    "corruption": "frost",
+    "severity": 2,
+    "accuracy": 0.6875176036589569,
+    "error_rate": 0.31248239634104313,
+    "entropy": 2.162834550926428
+  },
+  {
+    "method": "TENT",
+    "corruption": "frost",
+    "severity": 2,
+    "accuracy": 0.7302449354569384,
+    "error_rate": 0.26975506454306164,
+    "entropy": 2.010274562851417
+  },
+  {
+    "method": "FOA",
+    "corruption": "frost",
+    "severity": 2,
+    "accuracy": 0.7684839088361254,
+    "error_rate": 0.23151609116387462,
+    "entropy": 2.0322838288487888
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "frost",
+    "severity": 2,
+    "accuracy": 0.730497605331645,
+    "error_rate": 0.269502394668355,
+    "entropy": 2.085294261849786
+  },
+  {
+    "method": "Source",
+    "corruption": "frost",
+    "severity": 3,
+    "accuracy": 0.6665099439358502,
+    "error_rate": 0.33349005606414983,
+    "entropy": 2.3678614158347004
+  },
+  {
+    "method": "TENT",
+    "corruption": "frost",
+    "severity": 3,
+    "accuracy": 0.6717413709144875,
+    "error_rate": 0.3282586290855125,
+    "entropy": 2.3436275447196024
+  },
+  {
+    "method": "FOA",
+    "corruption": "frost",
+    "severity": 3,
+    "accuracy": 0.7364444079113286,
+    "error_rate": 0.2635555920886714,
+    "entropy": 2.4243687211491913
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "frost",
+    "severity": 3,
+    "accuracy": 0.6951006685778256,
+    "error_rate": 0.3048993314221744,
+    "entropy": 2.349305682462887
+  },
+  {
+    "method": "Source",
+    "corruption": "frost",
+    "severity": 4,
+    "accuracy": 0.6094207661123664,
+    "error_rate": 0.3905792338876336,
+    "entropy": 2.723204993735764
+  },
+  {
+    "method": "TENT",
+    "corruption": "frost",
+    "severity": 4,
+    "accuracy": 0.6589616868299465,
+    "error_rate": 0.3410383131700535,
+    "entropy": 2.559253622562345
+  },
+  {
+    "method": "FOA",
+    "corruption": "frost",
+    "severity": 4,
+    "accuracy": 0.6843688844250486,
+    "error_rate": 0.3156311155749514,
+    "entropy": 2.6786552848288157
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "frost",
+    "severity": 4,
+    "accuracy": 0.6437818486880399,
+    "error_rate": 0.3562181513119601,
+    "entropy": 2.847535621694955
+  },
+  {
+    "method": "Source",
+    "corruption": "frost",
+    "severity": 5,
+    "accuracy": 0.5328468075359596,
+    "error_rate": 0.4671531924640404,
+    "entropy": 2.984006147003657
+  },
+  {
+    "method": "TENT",
+    "corruption": "frost",
+    "severity": 5,
+    "accuracy": 0.5803803241580539,
+    "error_rate": 0.41961967584194615,
+    "entropy": 2.899747063536219
+  },
+  {
+    "method": "FOA",
+    "corruption": "frost",
+    "severity": 5,
+    "accuracy": 0.6203702627198477,
+    "error_rate": 0.37962973728015226,
+    "entropy": 2.9711341361079864
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "frost",
+    "severity": 5,
+    "accuracy": 0.5935456287932382,
+    "error_rate": 0.40645437120676176,
+    "entropy": 2.917276905644768
+  },
+  {
+    "method": "Source",
+    "corruption": "fog",
+    "severity": 1,
+    "accuracy": 0.7396130697151766,
+    "error_rate": 0.2603869302848234,
+    "entropy": 1.9532738913002579
+  },
+  {
+    "method": "TENT",
+    "corruption": "fog",
+    "severity": 1,
+    "accuracy": 0.7821752029691372,
+    "error_rate": 0.21782479703086277,
+    "entropy": 1.8401711722098941
+  },
+  {
+    "method": "FOA",
+    "corruption": "fog",
+    "severity": 1,
+    "accuracy": 0.8061971201657777,
+    "error_rate": 0.19380287983422229,
+    "entropy": 1.7598779528114163
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "fog",
+    "severity": 1,
+    "accuracy": 0.7955181503637917,
+    "error_rate": 0.2044818496362083,
+    "entropy": 1.8012592400781795
+  },
+  {
+    "method": "Source",
+    "corruption": "fog",
+    "severity": 2,
+    "accuracy": 0.6980464780290234,
+    "error_rate": 0.3019535219709766,
+    "entropy": 2.0226990216144536
+  },
+  {
+    "method": "TENT",
+    "corruption": "fog",
+    "severity": 2,
+    "accuracy": 0.7295097965148212,
+    "error_rate": 0.2704902034851788,
+    "entropy": 2.149799829124545
+  },
+  {
+    "method": "FOA",
+    "corruption": "fog",
+    "severity": 2,
+    "accuracy": 0.7409771278440991,
+    "error_rate": 0.2590228721559009,
+    "entropy": 2.1959270826085207
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "fog",
+    "severity": 2,
+    "accuracy": 0.7069363508497689,
+    "error_rate": 0.2930636491502311,
+    "entropy": 2.023265243711195
+  },
+  {
+    "method": "Source",
+    "corruption": "fog",
+    "severity": 3,
+    "accuracy": 0.6325535872655864,
+    "error_rate": 0.3674464127344136,
+    "entropy": 2.418334200573835
+  },
+  {
+    "method": "TENT",
+    "corruption": "fog",
+    "severity": 3,
+    "accuracy": 0.6362039413356466,
+    "error_rate": 0.3637960586643534,
+    "entropy": 2.3191701714644846
+  },
+  {
+    "method": "FOA",
+    "corruption": "fog",
+    "severity": 3,
+    "accuracy": 0.7367944368436155,
+    "error_rate": 0.26320556315638455,
+    "entropy": 2.3400607354555976
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "fog",
+    "severity": 3,
+    "accuracy": 0.7424779144861962,
+    "error_rate": 0.25752208551380384,
+    "entropy": 2.347424497831924
+  },
+  {
+    "method": "Source",
+    "corruption": "fog",
+    "severity": 4,
+    "accuracy": 0.6151826532310739,
+    "error_rate": 0.3848173467689261,
+    "entropy": 2.715039378647621
+  },
+  {
+    "method": "TENT",
+    "corruption": "fog",
+    "severity": 4,
+    "accuracy": 0.6231648804844568,
+    "error_rate": 0.37683511951554316,
+    "entropy": 2.887617083921589
+  },
+  {
+    "method": "FOA",
+    "corruption": "fog",
+    "severity": 4,
+    "accuracy": 0.650991523236279,
+    "error_rate": 0.34900847676372104,
+    "entropy": 2.6423096344337598
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "fog",
+    "severity": 4,
+    "accuracy": 0.6679682934269672,
+    "error_rate": 0.3320317065730328,
+    "entropy": 2.7491919171506507
+  },
+  {
+    "method": "Source",
+    "corruption": "fog",
+    "severity": 5,
+    "accuracy": 0.5764046641404128,
+    "error_rate": 0.4235953358595872,
+    "entropy": 3.1831458765854355
+  },
+  {
+    "method": "TENT",
+    "corruption": "fog",
+    "severity": 5,
+    "accuracy": 0.5564111975855743,
+    "error_rate": 0.44358880241442566,
+    "entropy": 2.9530824347895295
+  },
+  {
+    "method": "FOA",
+    "corruption": "fog",
+    "severity": 5,
+    "accuracy": 0.6542626905818175,
+    "error_rate": 0.3457373094181825,
+    "entropy": 3.1353872374165412
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "fog",
+    "severity": 5,
+    "accuracy": 0.6022907969050524,
+    "error_rate": 0.3977092030949476,
+    "entropy": 3.123781631197346
+  },
+  {
+    "method": "Source",
+    "corruption": "brightness",
+    "severity": 1,
+    "accuracy": 0.7818885531758873,
+    "error_rate": 0.21811144682411265,
+    "entropy": 1.7400624977046228
+  },
+  {
+    "method": "TENT",
+    "corruption": "brightness",
+    "severity": 1,
+    "accuracy": 0.7798951260056364,
+    "error_rate": 0.22010487399436363,
+    "entropy": 1.8046980593764743
+  },
+  {
+    "method": "FOA",
+    "corruption": "brightness",
+    "severity": 1,
+    "accuracy": 0.8290013094295848,
+    "error_rate": 0.17099869057041517,
+    "entropy": 1.8622849932347498
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "brightness",
+    "severity": 1,
+    "accuracy": 0.8213524085876519,
+    "error_rate": 0.1786475914123481,
+    "entropy": 1.7857620514978707
+  },
+  {
+    "method": "Source",
+    "corruption": "brightness",
+    "severity": 2,
+    "accuracy": 0.697594087365762,
+    "error_rate": 0.302405912634238,
+    "entropy": 2.151443883405875
+  },
+  {
+    "method": "TENT",
+    "corruption": "brightness",
+    "severity": 2,
+    "accuracy": 0.7157677024382222,
+    "error_rate": 0.2842322975617778,
+    "entropy": 1.9875357908162132
+  },
+  {
+    "method": "FOA",
+    "corruption": "brightness",
+    "severity": 2,
+    "accuracy": 0.8006822834147124,
+    "error_rate": 0.19931771658528763,
+    "entropy": 2.227767682189851
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "brightness",
+    "severity": 2,
+    "accuracy": 0.7433537197604082,
+    "error_rate": 0.2566462802395918,
+    "entropy": 2.025151346344345
+  },
+  {
+    "method": "Source",
+    "corruption": "brightness",
+    "severity": 3,
+    "accuracy": 0.6189769604895495,
+    "error_rate": 0.38102303951045047,
+    "entropy": 2.411567463429286
+  },
+  {
+    "method": "TENT",
+    "corruption": "brightness",
+    "severity": 3,
+    "accuracy": 0.6564140563187235,
+    "error_rate": 0.3435859436812765,
+    "entropy": 2.4067518481410106
+  },
+  {
+    "method": "FOA",
+    "corruption": "brightness",
+    "severity": 3,
+    "accuracy": 0.6787850415023602,
+    "error_rate": 0.3212149584976398,
+    "entropy": 2.57553408424432
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "brightness",
+    "severity": 3,
+    "accuracy": 0.7049792829695816,
+    "error_rate": 0.29502071703041843,
+    "entropy": 2.4971570950954356
+  },
+  {
+    "method": "Source",
+    "corruption": "brightness",
+    "severity": 4,
+    "accuracy": 0.587092481008297,
+    "error_rate": 0.41290751899170297,
+    "entropy": 2.836863155753235
+  },
+  {
+    "method": "TENT",
+    "corruption": "brightness",
+    "severity": 4,
+    "accuracy": 0.6492984692116021,
+    "error_rate": 0.35070153078839794,
+    "entropy": 2.768605145999844
+  },
+  {
+    "method": "FOA",
+    "corruption": "brightness",
+    "severity": 4,
+    "accuracy": 0.6488315102630082,
+    "error_rate": 0.3511684897369918,
+    "entropy": 2.5241260513576886
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "brightness",
+    "severity": 4,
+    "accuracy": 0.6736651702533155,
+    "error_rate": 0.3263348297466845,
+    "entropy": 2.49607678222399
+  },
+  {
+    "method": "Source",
+    "corruption": "brightness",
+    "severity": 5,
+    "accuracy": 0.5553881366888911,
+    "error_rate": 0.4446118633111089,
+    "entropy": 3.071754225579596
+  },
+  {
+    "method": "TENT",
+    "corruption": "brightness",
+    "severity": 5,
+    "accuracy": 0.5499528589580794,
+    "error_rate": 0.45004714104192056,
+    "entropy": 3.0074094780419776
+  },
+  {
+    "method": "FOA",
+    "corruption": "brightness",
+    "severity": 5,
+    "accuracy": 0.5874276890885741,
+    "error_rate": 0.4125723109114259,
+    "entropy": 2.861989854178511
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "brightness",
+    "severity": 5,
+    "accuracy": 0.6340676487871031,
+    "error_rate": 0.3659323512128969,
+    "entropy": 2.994445230110338
+  },
+  {
+    "method": "Source",
+    "corruption": "contrast",
+    "severity": 1,
+    "accuracy": 0.7423186910212138,
+    "error_rate": 0.25768130897878616,
+    "entropy": 1.7967305251905907
+  },
+  {
+    "method": "TENT",
+    "corruption": "contrast",
+    "severity": 1,
+    "accuracy": 0.8213488420007976,
+    "error_rate": 0.1786511579992024,
+    "entropy": 1.7910879960487212
+  },
+  {
+    "method": "FOA",
+    "corruption": "contrast",
+    "severity": 1,
+    "accuracy": 0.846089390010097,
+    "error_rate": 0.15391060998990302,
+    "entropy": 1.8669672548830039
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "contrast",
+    "severity": 1,
+    "accuracy": 0.792668035078063,
+    "error_rate": 0.20733196492193695,
+    "entropy": 1.7060120213672645
+  },
+  {
+    "method": "Source",
+    "corruption": "contrast",
+    "severity": 2,
+    "accuracy": 0.7102773383467339,
+    "error_rate": 0.2897226616532661,
+    "entropy": 1.994078647811105
+  },
+  {
+    "method": "TENT",
+    "corruption": "contrast",
+    "severity": 2,
+    "accuracy": 0.7312535819454634,
+    "error_rate": 0.2687464180545366,
+    "entropy": 2.1955142320501237
+  },
+  {
+    "method": "FOA",
+    "corruption": "contrast",
+    "severity": 2,
+    "accuracy": 0.7897145209267108,
+    "error_rate": 0.2102854790732892,
+    "entropy": 2.1504046515517845
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "contrast",
+    "severity": 2,
+    "accuracy": 0.7606051523674489,
+    "error_rate": 0.23939484763255114,
+    "entropy": 2.0207127167737657
+  },
+  {
+    "method": "Source",
+    "corruption": "contrast",
+    "severity": 3,
+    "accuracy": 0.6521406071990912,
+    "error_rate": 0.34785939280090883,
+    "entropy": 2.2964757677580625
+  },
+  {
+    "method": "TENT",
+    "corruption": "contrast",
+    "severity": 3,
+    "accuracy": 0.6910729861069437,
+    "error_rate": 0.3089270138930563,
+    "entropy": 2.280212210741115
+  },
+  {
+    "method": "FOA",
+    "corruption": "contrast",
+    "severity": 3,
+    "accuracy": 0.6807054973416722,
+    "error_rate": 0.3192945026583278,
+    "entropy": 2.403526355197173
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "contrast",
+    "severity": 3,
+    "accuracy": 0.7139945101598517,
+    "error_rate": 0.2860054898401483,
+    "entropy": 2.4213979910734222
+  },
+  {
+    "method": "Source",
+    "corruption": "contrast",
+    "severity": 4,
+    "accuracy": 0.6022465609938166,
+    "error_rate": 0.39775343900618343,
+    "entropy": 2.677903040046678
+  },
+  {
+    "method": "TENT",
+    "corruption": "contrast",
+    "severity": 4,
+    "accuracy": 0.6177166659991316,
+    "error_rate": 0.38228333400086845,
+    "entropy": 2.7757507710047307
+  },
+  {
+    "method": "FOA",
+    "corruption": "contrast",
+    "severity": 4,
+    "accuracy": 0.6806100229522105,
+    "error_rate": 0.3193899770477895,
+    "entropy": 2.642418175935532
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "contrast",
+    "severity": 4,
+    "accuracy": 0.6555010339430329,
+    "error_rate": 0.34449896605696706,
+    "entropy": 2.4698078835264416
+  },
+  {
+    "method": "Source",
+    "corruption": "contrast",
+    "severity": 5,
+    "accuracy": 0.5803038212439711,
+    "error_rate": 0.41969617875602894,
+    "entropy": 3.1366874267444524
+  },
+  {
+    "method": "TENT",
+    "corruption": "contrast",
+    "severity": 5,
+    "accuracy": 0.5471006457299743,
+    "error_rate": 0.4528993542700257,
+    "entropy": 2.9750963960443624
+  },
+  {
+    "method": "FOA",
+    "corruption": "contrast",
+    "severity": 5,
+    "accuracy": 0.6084688607388846,
+    "error_rate": 0.3915311392611154,
+    "entropy": 3.0311250154543536
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "contrast",
+    "severity": 5,
+    "accuracy": 0.5384223838308952,
+    "error_rate": 0.46157761616910475,
+    "entropy": 3.1119574911434578
+  },
+  {
+    "method": "Source",
+    "corruption": "elastic_transform",
+    "severity": 1,
+    "accuracy": 0.7525583518296153,
+    "error_rate": 0.24744164817038472,
+    "entropy": 1.7044459559399574
+  },
+  {
+    "method": "TENT",
+    "corruption": "elastic_transform",
+    "severity": 1,
+    "accuracy": 0.8121289264051514,
+    "error_rate": 0.18787107359484856,
+    "entropy": 1.8203463635867223
+  },
+  {
+    "method": "FOA",
+    "corruption": "elastic_transform",
+    "severity": 1,
+    "accuracy": 0.835127014905686,
+    "error_rate": 0.16487298509431403,
+    "entropy": 1.6577746290402327
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "elastic_transform",
+    "severity": 1,
+    "accuracy": 0.8129314576848505,
+    "error_rate": 0.18706854231514947,
+    "entropy": 1.6918451996385606
+  },
+  {
+    "method": "Source",
+    "corruption": "elastic_transform",
+    "severity": 2,
+    "accuracy": 0.6662571672985487,
+    "error_rate": 0.33374283270145133,
+    "entropy": 2.188163975694945
+  },
+  {
+    "method": "TENT",
+    "corruption": "elastic_transform",
+    "severity": 2,
+    "accuracy": 0.7301594528263323,
+    "error_rate": 0.2698405471736677,
+    "entropy": 2.247994413889003
+  },
+  {
+    "method": "FOA",
+    "corruption": "elastic_transform",
+    "severity": 2,
+    "accuracy": 0.7684526338470475,
+    "error_rate": 0.23154736615295246,
+    "entropy": 2.013871579867174
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "elastic_transform",
+    "severity": 2,
+    "accuracy": 0.7195375184546069,
+    "error_rate": 0.2804624815453931,
+    "entropy": 2.153891004368466
+  },
+  {
+    "method": "Source",
+    "corruption": "elastic_transform",
+    "severity": 3,
+    "accuracy": 0.6707449230865291,
+    "error_rate": 0.3292550769134709,
+    "entropy": 2.380966132191639
+  },
+  {
+    "method": "TENT",
+    "corruption": "elastic_transform",
+    "severity": 3,
+    "accuracy": 0.6975123650676952,
+    "error_rate": 0.3024876349323048,
+    "entropy": 2.2617200269035664
+  },
+  {
+    "method": "FOA",
+    "corruption": "elastic_transform",
+    "severity": 3,
+    "accuracy": 0.7014764490493671,
+    "error_rate": 0.2985235509506329,
+    "entropy": 2.590941664047013
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "elastic_transform",
+    "severity": 3,
+    "accuracy": 0.7279713514763828,
+    "error_rate": 0.2720286485236172,
+    "entropy": 2.456296923669057
+  },
+  {
+    "method": "Source",
+    "corruption": "elastic_transform",
+    "severity": 4,
+    "accuracy": 0.6130128513824366,
+    "error_rate": 0.38698714861756345,
+    "entropy": 2.6512874616235305
+  },
+  {
+    "method": "TENT",
+    "corruption": "elastic_transform",
+    "severity": 4,
+    "accuracy": 0.6418478784847774,
+    "error_rate": 0.3581521215152226,
+    "entropy": 2.6136009230320187
+  },
+  {
+    "method": "FOA",
+    "corruption": "elastic_transform",
+    "severity": 4,
+    "accuracy": 0.6690295674411034,
+    "error_rate": 0.3309704325588966,
+    "entropy": 2.6169049883588964
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "elastic_transform",
+    "severity": 4,
+    "accuracy": 0.6445908634844033,
+    "error_rate": 0.3554091365155967,
+    "entropy": 2.6949761890550863
+  },
+  {
+    "method": "Source",
+    "corruption": "elastic_transform",
+    "severity": 5,
+    "accuracy": 0.5547789609373281,
+    "error_rate": 0.44522103906267185,
+    "entropy": 2.9092436337958403
+  },
+  {
+    "method": "TENT",
+    "corruption": "elastic_transform",
+    "severity": 5,
+    "accuracy": 0.5915354266113667,
+    "error_rate": 0.4084645733886333,
+    "entropy": 3.0755391225825757
+  },
+  {
+    "method": "FOA",
+    "corruption": "elastic_transform",
+    "severity": 5,
+    "accuracy": 0.6099816562475123,
+    "error_rate": 0.3900183437524877,
+    "entropy": 2.902244475520145
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "elastic_transform",
+    "severity": 5,
+    "accuracy": 0.5980133538914155,
+    "error_rate": 0.4019866461085845,
+    "entropy": 3.075138712337179
+  },
+  {
+    "method": "Source",
+    "corruption": "pixelate",
+    "severity": 1,
+    "accuracy": 0.7833881056224274,
+    "error_rate": 0.21661189437757256,
+    "entropy": 1.8543360192379936
+  },
+  {
+    "method": "TENT",
+    "corruption": "pixelate",
+    "severity": 1,
+    "accuracy": 0.793252475178917,
+    "error_rate": 0.20674752482108305,
+    "entropy": 1.857059866859316
+  },
+  {
+    "method": "FOA",
+    "corruption": "pixelate",
+    "severity": 1,
+    "accuracy": 0.8352651831308503,
+    "error_rate": 0.1647348168691497,
+    "entropy": 1.619511789933548
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "pixelate",
+    "severity": 1,
+    "accuracy": 0.8325508487576633,
+    "error_rate": 0.16744915124233672,
+    "entropy": 1.8048084946661382
+  },
+  {
+    "method": "Source",
+    "corruption": "pixelate",
+    "severity": 2,
+    "accuracy": 0.6948055499655703,
+    "error_rate": 0.3051944500344297,
+    "entropy": 2.009568337489559
+  },
+  {
+    "method": "TENT",
+    "corruption": "pixelate",
+    "severity": 2,
+    "accuracy": 0.7172281508244526,
+    "error_rate": 0.28277184917554743,
+    "entropy": 1.9338479937731041
+  },
+  {
+    "method": "FOA",
+    "corruption": "pixelate",
+    "severity": 2,
+    "accuracy": 0.7713215959729463,
+    "error_rate": 0.22867840402705375,
+    "entropy": 1.9788983800237545
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "pixelate",
+    "severity": 2,
+    "accuracy": 0.7630367221560432,
+    "error_rate": 0.23696327784395677,
+    "entropy": 2.1047398671316415
+  },
+  {
+    "method": "Source",
+    "corruption": "pixelate",
+    "severity": 3,
+    "accuracy": 0.6672082673056791,
+    "error_rate": 0.33279173269432094,
+    "entropy": 2.3615444455770174
+  },
+  {
+    "method": "TENT",
+    "corruption": "pixelate",
+    "severity": 3,
+    "accuracy": 0.6598741438157112,
+    "error_rate": 0.3401258561842888,
+    "entropy": 2.342310813047685
+  },
+  {
+    "method": "FOA",
+    "corruption": "pixelate",
+    "severity": 3,
+    "accuracy": 0.7032861577586971,
+    "error_rate": 0.2967138422413029,
+    "entropy": 2.287029314534238
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "pixelate",
+    "severity": 3,
+    "accuracy": 0.6894039164416944,
+    "error_rate": 0.3105960835583056,
+    "entropy": 2.54415686206579
+  },
+  {
+    "method": "Source",
+    "corruption": "pixelate",
+    "severity": 4,
+    "accuracy": 0.6494328900025458,
+    "error_rate": 0.3505671099974542,
+    "entropy": 2.6203104744529524
+  },
+  {
+    "method": "TENT",
+    "corruption": "pixelate",
+    "severity": 4,
+    "accuracy": 0.6184585574563892,
+    "error_rate": 0.3815414425436108,
+    "entropy": 2.679695461395701
+  },
+  {
+    "method": "FOA",
+    "corruption": "pixelate",
+    "severity": 4,
+    "accuracy": 0.6625770825325737,
+    "error_rate": 0.33742291746742625,
+    "entropy": 2.6396014813284183
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "pixelate",
+    "severity": 4,
+    "accuracy": 0.648268204250542,
+    "error_rate": 0.351731795749458,
+    "entropy": 2.684432276460792
+  },
+  {
+    "method": "Source",
+    "corruption": "pixelate",
+    "severity": 5,
+    "accuracy": 0.5266443587668038,
+    "error_rate": 0.4733556412331962,
+    "entropy": 3.0254420843301215
+  },
+  {
+    "method": "TENT",
+    "corruption": "pixelate",
+    "severity": 5,
+    "accuracy": 0.573247946758496,
+    "error_rate": 0.426752053241504,
+    "entropy": 2.958812303387753
+  },
+  {
+    "method": "FOA",
+    "corruption": "pixelate",
+    "severity": 5,
+    "accuracy": 0.6297521244814498,
+    "error_rate": 0.3702478755185502,
+    "entropy": 2.956744181218038
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "pixelate",
+    "severity": 5,
+    "accuracy": 0.5921109571524341,
+    "error_rate": 0.4078890428475659,
+    "entropy": 2.9579015519179737
+  },
+  {
+    "method": "Source",
+    "corruption": "jpeg_compression",
+    "severity": 1,
+    "accuracy": 0.7442045028620717,
+    "error_rate": 0.25579549713792826,
+    "entropy": 2.007540079864544
+  },
+  {
+    "method": "TENT",
+    "corruption": "jpeg_compression",
+    "severity": 1,
+    "accuracy": 0.7625775059313662,
+    "error_rate": 0.2374224940686338,
+    "entropy": 1.767397646783216
+  },
+  {
+    "method": "FOA",
+    "corruption": "jpeg_compression",
+    "severity": 1,
+    "accuracy": 0.795975721556721,
+    "error_rate": 0.20402427844327897,
+    "entropy": 1.759192462697845
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "jpeg_compression",
+    "severity": 1,
+    "accuracy": 0.8407624907035571,
+    "error_rate": 0.15923750929644287,
+    "entropy": 1.6991913689082596
+  },
+  {
+    "method": "Source",
+    "corruption": "jpeg_compression",
+    "severity": 2,
+    "accuracy": 0.7374158384205172,
+    "error_rate": 0.26258416157948283,
+    "entropy": 2.0648486515958693
+  },
+  {
+    "method": "TENT",
+    "corruption": "jpeg_compression",
+    "severity": 2,
+    "accuracy": 0.729631632416209,
+    "error_rate": 0.270368367583791,
+    "entropy": 2.2676437312275284
+  },
+  {
+    "method": "FOA",
+    "corruption": "jpeg_compression",
+    "severity": 2,
+    "accuracy": 0.7634614525247166,
+    "error_rate": 0.23653854747528336,
+    "entropy": 2.0780899471191137
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "jpeg_compression",
+    "severity": 2,
+    "accuracy": 0.7334118883763303,
+    "error_rate": 0.2665881116236697,
+    "entropy": 1.8788864690992115
+  },
+  {
+    "method": "Source",
+    "corruption": "jpeg_compression",
+    "severity": 3,
+    "accuracy": 0.6452877088378287,
+    "error_rate": 0.3547122911621713,
+    "entropy": 2.4770865193886964
+  },
+  {
+    "method": "TENT",
+    "corruption": "jpeg_compression",
+    "severity": 3,
+    "accuracy": 0.7095717249155968,
+    "error_rate": 0.29042827508440316,
+    "entropy": 2.5143754043206927
+  },
+  {
+    "method": "FOA",
+    "corruption": "jpeg_compression",
+    "severity": 3,
+    "accuracy": 0.7132300718501117,
+    "error_rate": 0.28676992814988833,
+    "entropy": 2.3584712086099198
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "jpeg_compression",
+    "severity": 3,
+    "accuracy": 0.6873443626778744,
+    "error_rate": 0.31265563732212565,
+    "entropy": 2.6270692857804394
+  },
+  {
+    "method": "Source",
+    "corruption": "jpeg_compression",
+    "severity": 4,
+    "accuracy": 0.5963626748988301,
+    "error_rate": 0.4036373251011699,
+    "entropy": 2.724822058630034
+  },
+  {
+    "method": "TENT",
+    "corruption": "jpeg_compression",
+    "severity": 4,
+    "accuracy": 0.6391872179908049,
+    "error_rate": 0.3608127820091951,
+    "entropy": 2.615015563053521
+  },
+  {
+    "method": "FOA",
+    "corruption": "jpeg_compression",
+    "severity": 4,
+    "accuracy": 0.653393283669115,
+    "error_rate": 0.346606716330885,
+    "entropy": 2.6143916174091135
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "jpeg_compression",
+    "severity": 4,
+    "accuracy": 0.6485686752556121,
+    "error_rate": 0.3514313247443879,
+    "entropy": 2.6522342553234886
+  },
+  {
+    "method": "Source",
+    "corruption": "jpeg_compression",
+    "severity": 5,
+    "accuracy": 0.5404204034850721,
+    "error_rate": 0.45957959651492786,
+    "entropy": 3.033366210528695
+  },
+  {
+    "method": "TENT",
+    "corruption": "jpeg_compression",
+    "severity": 5,
+    "accuracy": 0.559249201114842,
+    "error_rate": 0.440750798885158,
+    "entropy": 2.9489983601145253
+  },
+  {
+    "method": "FOA",
+    "corruption": "jpeg_compression",
+    "severity": 5,
+    "accuracy": 0.6253974987058674,
+    "error_rate": 0.37460250129413264,
+    "entropy": 2.9021236284217693
+  },
+  {
+    "method": "FOA-8bit",
+    "corruption": "jpeg_compression",
+    "severity": 5,
+    "accuracy": 0.6088858652015223,
+    "error_rate": 0.3911141347984777,
+    "entropy": 3.037730049304485
+  }
+]

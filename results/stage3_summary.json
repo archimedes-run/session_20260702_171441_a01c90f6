@@ -1,0 +1,121 @@
+{
+  "method_comparison": {
+    "mean": {
+      "FOA": 0.719304217253705,
+      "FOA-8bit": 0.7033931270783599,
+      "Source": 0.6510746610023337,
+      "TENT": 0.6770907391208099
+    },
+    "std": {
+      "FOA": 0.07577742090406879,
+      "FOA-8bit": 0.07408852938897147,
+      "Source": 0.07271766921831244,
+      "TENT": 0.07549798900106619
+    },
+    "min": {
+      "FOA": 0.5826845097771048,
+      "FOA-8bit": 0.5384223838308952,
+      "Source": 0.5266443587668038,
+      "TENT": 0.5371211182134935
+    },
+    "max": {
+      "FOA": 0.8495704398073485,
+      "FOA-8bit": 0.8407624907035571,
+      "Source": 0.7833881056224274,
+      "TENT": 0.8213488420007976
+    }
+  },
+  "component_ablation": {
+    "mean": {
+      "Full FOA (lambda=0.1)": 0.7449290649992752,
+      "Prompt-only (lambda=0)": 0.7074404268339893,
+      "Shifting-heavy (prompts=1, lambda=1.0)": 0.7172310552831296,
+      "Source (no adaptation)": 0.6712379897164278
+    },
+    "std": {
+      "Full FOA (lambda=0.1)": 0.06213534127850281,
+      "Prompt-only (lambda=0)": 0.0667908925407641,
+      "Shifting-heavy (prompts=1, lambda=1.0)": 0.07573093514113811,
+      "Source (no adaptation)": 0.06385317248626331
+    }
+  },
+  "hyperparameter_sensitivity": {
+    "lambda": [
+      {
+        "value": 0.0,
+        "accuracy": 0.7865731240591965
+      },
+      {
+        "value": 0.01,
+        "accuracy": 0.7962855913400422
+      },
+      {
+        "value": 0.05,
+        "accuracy": 0.7959248830528218
+      },
+      {
+        "value": 0.1,
+        "accuracy": 0.8122218331240912
+      },
+      {
+        "value": 0.5,
+        "accuracy": 0.7988942415453417
+      },
+      {
+        "value": 1.0,
+        "accuracy": 0.8175227044342362
+      }
+    ],
+    "num_prompts": [
+      {
+        "value": 1.0,
+        "accuracy": 0.7693567839314747
+      },
+      {
+        "value": 5.0,
+        "accuracy": 0.8027155509499416
+      },
+      {
+        "value": 10.0,
+        "accuracy": 0.8272167206404323
+      },
+      {
+        "value": 20.0,
+        "accuracy": 0.7987094822878278
+      },
+      {
+        "value": 50.0,
+        "accuracy": 0.7847547973372023
+      }
+    ],
+    "cma_population": [
+      {
+        "value": 5.0,
+        "accuracy": 0.8048937456122792
+      },
+      {
+        "value": 10.0,
+        "accuracy": 0.8077787219110805
+      },
+      {
+        "value": 20.0,
+        "accuracy": 0.8271299843017238
+      }
+    ],
+    "cma_iterations": [
+      {
+        "value": 5.0,
+        "accuracy": 0.7875967460184187
+      },
+      {
+        "value": 10.0,
+        "accuracy": 0.8062517919245041
+      },
+      {
+        "value": 20.0,
+        "accuracy": 0.8271095996820349
+      }
+    ]
+  },
+  "note": "SYNTHETIC DATA FOR DEMONSTRATION ONLY - Real results require ImageNet-C dataset"
+}
