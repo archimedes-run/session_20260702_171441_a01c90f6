@@ -16,9 +16,9 @@
   "tent_results": {
     "accuracy": 0.0,
     "error_rate": 100.0,
-    "avg_entropy": 3.1605188846588135,
-    "avg_confidence": 0.4328354001045227,
-    "avg_adaptation_loss": 3.0947857269873986,
+    "avg_entropy": 3.1801202297210693,
+    "avg_confidence": 0.4270205795764923,
+    "avg_adaptation_loss": 3.114972701439491,
     "total_samples": 100
   }
 }

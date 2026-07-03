@@ -36,3 +36,4 @@ data/
 results/*.pth
 results/*.pt
 results/*.ckpt
+=*
