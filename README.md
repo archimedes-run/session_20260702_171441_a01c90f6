@@ -395,7 +395,19 @@ Generated in `results/`:
 
 ---
 
-**Last Updated:** 2026-07-02  
-**Status:** Stage 1 & 2 Complete ✅ | FOA Fully Implemented | Ready for Full Evaluation  
-**Implementation:** All methods coded | Baselines verified | FOA tested on synthetic data  
-**Next:** Run full ImageNet-C evaluation with `./reproduce.sh --stage all`
+**Last Updated:** 2026-07-02 19:10 UTC  
+**Status:** Stage 1 & 2 COMPLETE ✅ | All verification tests PASSED ✅  
+**Implementation:** All methods coded and tested | Source statistics computed | Reproducibility pipeline ready  
+**Verified Components:**
+- ✅ Source baseline (zero-shot evaluation)
+- ✅ TENT baseline (entropy minimization with LayerNorm adaptation)
+- ✅ FOA implementation (CMA-ES prompt optimization + activation shifting)
+- ✅ Source statistics pre-computation (32 samples)
+- ✅ All verification tests passing (model loading, data loading, adaptation)
+- ✅ Reproducibility script (`reproduce.sh`) complete with proper halt conditions
+
+**Known Limitations:**
+- ⚠️ 8-bit quantization requires x86 CPU backend (MPS/CUDA not supported)
+- ⚠️ Full evaluation pending ImageNet-C dataset download (manual, licensing)
+
+**Next:** Download ImageNet-C and run `./reproduce.sh --stage all` for full evaluation

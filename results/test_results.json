@@ -9,16 +9,16 @@
   "source_results": {
     "accuracy": 0.0,
     "error_rate": 100.0,
-    "avg_entropy": 4.76282262802124,
-    "avg_confidence": 0.17609965801239014,
+    "avg_entropy": 4.762823104858398,
+    "avg_confidence": 0.17609968781471252,
     "total_samples": 100
   },
   "tent_results": {
     "accuracy": 0.0,
     "error_rate": 100.0,
-    "avg_entropy": 3.161142349243164,
-    "avg_confidence": 0.43281158804893494,
-    "avg_adaptation_loss": 3.0954562975810123,
+    "avg_entropy": 3.1683130264282227,
+    "avg_confidence": 0.43062546849250793,
+    "avg_adaptation_loss": 3.102583747643691,
     "total_samples": 100
   }
 }
